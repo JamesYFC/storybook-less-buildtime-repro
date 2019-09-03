@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import 'fomantic-ui-less/semantic.less';
+import { SomeComponent } from './components/SomeComponent/SomeComponent';
 
 const App: React.FC = () => {
   return (
@@ -16,7 +18,7 @@ const App: React.FC = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <SomeComponent/>
         </a>
       </header>
     </div>
