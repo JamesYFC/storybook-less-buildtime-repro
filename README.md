@@ -1,5 +1,7 @@
 # Storybook Less BuildTime Repro
 
+**Don't use this for an actual project! This is just a quick repro of an issue I'm experiencing.**
+
 CRA + semantic-ui-react, fomantic-ui-less, craco, and storybook.
 
 ## Starting
