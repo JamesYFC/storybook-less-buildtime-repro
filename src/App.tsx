@@ -18,7 +18,7 @@ const App: React.FC = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <SomeComponent/>
+          <SomeComponent text='hello there!'/>
         </a>
       </header>
     </div>
