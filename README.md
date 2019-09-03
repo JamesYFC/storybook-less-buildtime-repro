@@ -4,6 +4,10 @@
 
 CRA + semantic-ui-react, fomantic-ui-less, craco, and storybook.
 
+The steps taken roughly followed these two:
+- [storybook + cra-ts](https://medium.com/@dandobusiness/setting-up-a-react-typescript-storybook-project-5e4e9f540568)
+- [semantic/fomantic less theming](https://react.semantic-ui.com/theming#theming-with-create-react-app)
+
 ## Starting
 
 1. `yarn install`
